@@ -11,8 +11,8 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 
 📫 You may also reach me on: 
 <ul>
-<li><a href="https://twitter.com/Pat_Cyubahiro" title="My Twitter" rel="nofollow">Twitter @Pat_Cyubahiro</a></li>
-<li><a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" title="My LinkedIn" rel="nofollow">LinkedIn</a></li>
+<li><a href="https://twitter.com/Pat_Cyubahiro" title="My Twitter" rel="nofollow">Twitter: @Pat_Cyubahiro</a></li>
+<li><a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" title="My LinkedIn" rel="nofollow">LinkedIn: @patrickcyubahiro</a></li>
   <br>
 <li>Technical Writing Profile:
 <ul>
