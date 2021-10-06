@@ -17,7 +17,7 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <li>Technical Writing Profile:
 <ul>
 <li><a href="https://hashnode.com/@patrickcyubahiro" title="Blog" rel="nofollow">Hashnode</a></li>
-
+ ...
 </ul>
 </li>
 </ul>
