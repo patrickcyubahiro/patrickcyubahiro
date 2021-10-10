@@ -42,7 +42,7 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
   <img align="left" alt="Patrick Cyubahiro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" rel="nofollow">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width: 100%;">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="<i class="fab fa-stack-overflow"></i>" style="max-width: 100%;">
 </a>
 <br>
 
