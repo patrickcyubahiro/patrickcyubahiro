@@ -42,19 +42,3 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" rel="nofollow">
   <img align="left" alt="Patrick Cyubahiro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-
-
-
-
-<p align="left">
-<a href="https://dev.to/gautamkrishnar" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="gautamkrishnar" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
-</p>
-
-
-<br>
-
-
-
-
-  
-  
