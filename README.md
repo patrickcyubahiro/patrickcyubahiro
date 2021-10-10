@@ -47,6 +47,5 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" rel="nofollow">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width: 100%;">
 </a>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=patrickcyubahiro" style="max-width: 100%;"></a></p>
 <br>
 
