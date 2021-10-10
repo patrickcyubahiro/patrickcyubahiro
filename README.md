@@ -38,8 +38,8 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <a href="https://twitter.com/Pat_Cyubahiro" rel="nofollow">
   <img align="left" alt="Patrick Cyubahiro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" rel="nofollow">
+  <img align="left" alt="Patrick Cyubahiro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" rel="nofollow">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width: 100%;">
