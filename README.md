@@ -46,3 +46,18 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 </a>
 <br>
 
+
+
+
+<a href="https://dev.to/gautamkrishnar" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="gautamkrishnar" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
+<a href="https://twitter.com/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://stackoverflow.com/users/4214976" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
+</p><p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>  <strong>This week I spent my time on</strong></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/360d68b31dc4e4c4b731990d2381cfd7f4c16dcf2e0f2b8c1c3a9eaf4c9fb066/68747470733a2f2f6769746875622d726561646d652d73746174732d74617570652d74776f2e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d67617574616d6b726973686e617226686964655f7469746c653d7472756526686964655f626f726465723d74727565266c616e67735f636f756e743d352662675f636f6c6f723d303030303030303026746578745f636f6c6f723d373737"><img src="https://camo.githubusercontent.com/360d68b31dc4e4c4b731990d2381cfd7f4c16dcf2e0f2b8c1c3a9eaf4c9fb066/68747470733a2f2f6769746875622d726561646d652d73746174732d74617570652d74776f2e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d67617574616d6b726973686e617226686964655f7469746c653d7472756526686964655f626f726465723d74727565266c616e67735f636f756e743d352662675f636f6c6f723d303030303030303026746578745f636f6c6f723d373737" alt="Wwakatime stats" data-canonical-src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&amp;hide_title=true&amp;hide_border=true&amp;langs_count=5&amp;bg_color=00000000&amp;text_color=777" style="max-width: 100%;"></a></p>
+<details>
+  
+  
+  
+
