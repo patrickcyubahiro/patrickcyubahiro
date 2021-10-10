@@ -35,11 +35,8 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 </li>
 
 
-<a href="https://discord.gg/XTW52Kt" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+<a href="https://twitter.com/Pat_Cyubahiro" rel="nofollow">
+  <img align="left" alt="Patrick Cyubahiro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
