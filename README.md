@@ -41,10 +41,6 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" rel="nofollow">
   <img align="left" alt="Patrick Cyubahiro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" rel="nofollow">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="<i class="fab fa-stack-overflow"></i>" style="max-width: 100%;">
-</a>
-<br>
 
 
 
@@ -56,5 +52,12 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <a href="https://stackoverflow.com/users/4214976" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 </p>
+
+
+<br>
+
+
+
+
   
   
