@@ -48,7 +48,8 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 
 
 
-
+<p><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>  <strong>Connect with me</strong></p>
+<p align="left">
 <a href="https://dev.to/gautamkrishnar" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="gautamkrishnar" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width: 100%;"></a>
 <a href="https://twitter.com/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/gautamkrishnar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;"></a>
@@ -59,5 +60,3 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 <details>
   
   
-  
-
