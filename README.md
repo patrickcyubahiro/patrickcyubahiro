@@ -18,7 +18,7 @@ I am inspired by translating ideas into a fragment of reality and have been infl
 </ul>
 
 
-Feel free to contact me directly at ampatrickcyubahiro@gmail.com. 
+Feel free to contact me directly at ampatrickcyubahirogmail.com. 
 
 📫 You may also reach me on: 
 <ul>
