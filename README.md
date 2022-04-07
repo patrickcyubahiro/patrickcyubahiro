@@ -13,7 +13,7 @@ I am inspired by translating ideas into a fragment of reality and have been infl
 <p><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  <strong>Latest Blog Posts</strong></p>
 
 <ul>
-<li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow">My experience throughout the Microsoft ADC Game of Learners Hackathon.</a></li>
+<li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow">My experience throughout the Microsoft ADC Game of Learners Hackatho.</a></li>
 <li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow">Introduction to Basic HTML.</a></li>
 </ul>
 
