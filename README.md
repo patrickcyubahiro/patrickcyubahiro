@@ -26,7 +26,13 @@ Apart from coding, I also write technical articles - you can find my articles on
 <li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow">Introduction to Basic HTML.</a></li>
 </ul>
 
+## My Github Skyline(s)
 
+[2019](https://skyline.github.com/patrickcyubahiro/2019)
+[2020](https://skyline.github.com/patrickcyubahiro/2020)
+[2021](https://skyline.github.com/patrickcyubahiro/2021)
+[2022](https://skyline.github.com/patrickcyubahiro/2022)
+  
 Feel free to contact me directly at ampatrickcyubahiro@gmail.com. 
 
 📫 Connect with me on: 
