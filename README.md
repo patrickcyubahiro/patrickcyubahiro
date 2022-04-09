@@ -42,7 +42,7 @@ et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps. 
 - 👯  Looking to collaborate on interesting projects that push the limits.
-- 💬  Ask me about tech stuff, life and Bible.
+- 💬  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
 - 📫  Write to: ampatrickcyubahiro@gmail.com.
 - 👀 Pronouns: He/Him.
 - ⚡  Fun fact: ​I​ ​pla​y​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs :smile:
