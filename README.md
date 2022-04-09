@@ -1,15 +1,3 @@
-<!--### Hi there 👋 
-
-[![swc](http://www.biego.tech/sweatcoin/)](https://sweatco.in/hi/fbiego)
-
-
-[![commits.top ranking](http://biego.tech/commits?user=fbiego&country=kenya&bg_color=111&text_color=77fe89&border_color=77fe89)](https://github.com/fbiego/commits-top-badge)
-
--->
-
-<!--
-**fbiego/fbiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb3d94103c1cabba7bcda3e74dc201b30782d58682a4e1423bc457d79fa8fe41/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6573706f69724d7572"><img src="https://camo.githubusercontent.com/fb3d94103c1cabba7bcda3e74dc201b30782d58682a4e1423bc457d79fa8fe41/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6573706f69724d7572" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=patrickcyubahiro" style="max-width: 100%;"></a></p>
 <p>
 
