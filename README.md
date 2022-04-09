@@ -17,7 +17,7 @@ I am inspired by translating ideas into a fragment of reality and have been infl
   
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also write technical articles - you can find my articles on my [blog]()
+Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site]()
 
 <hr/>
 
