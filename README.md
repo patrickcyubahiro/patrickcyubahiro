@@ -45,11 +45,9 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 </ul>
 </li>
 
-<p><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>  <strong>Connect with me</strong></p>
+<details>
+<summary>
+  More cool stuff
+</summary>
 
-<a href="https://twitter.com/Pat_Cyubahiro" rel="nofollow">
-  <img align="left" alt="Patrick Cyubahiro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" rel="nofollow">
-  <img align="left" alt="Patrick Cyubahiro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-</a>
+</details>
