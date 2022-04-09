@@ -19,7 +19,7 @@ I am inspired by translating ideas into a fragment of reality and have been infl
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site]()
 
-<hr/>
+other articles:
 
 <ul>
 <li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow">My experience throughout the Microsoft ADC Game of Learners Hackathon.</a></li>
