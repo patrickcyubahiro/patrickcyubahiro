@@ -30,9 +30,9 @@ Apart from coding, I also write technical articles - you can find my articles on
 Feel free to contact me directly at ampatrickcyubahiro@gmail.com. 
 
 📫 You may also reach me on: 
-<ul>
-<li><a href="https://twitter.com/Pat_Cyubahiro" title="My Twitter" rel="nofollow">Twitter: @Pat_Cyubahiro</a></li>
-<li><a href="https://www.linkedin.com/in/patrick-cyubahiro-262188138/" title="My LinkedIn" rel="nofollow">LinkedIn</a></li>
+
+  [![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro) [![Linkedin Badge](https://img.shields.io/badge/-Eniola_Osabiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-osabiya/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
+  
   <br>
 <li>Technical Writing Profile:
 <ul>
