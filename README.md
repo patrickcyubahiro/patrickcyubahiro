@@ -37,9 +37,16 @@ Other Places you can find my open source contributions:
 
 - [Gitlab](https://)
 - [Bitbucket](https://)
-  
-Feel free to contact me directly at ampatrickcyubahiro@gmail.com. 
 
+et cetera et cetera:
+
+- 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps, phew! :sweat_smile: 
+- 👯  Looking to collaborate on interesting projects that push the limits
+- 💬  Ask me about tech stuff, life and Bible
+- 📫  Reach me on: ampatrickcyubahiro@gmail.com.
+- 👀 Pronouns: He/Him.
+- ⚡  Fun fact: ​I​ ​pla​y​ :guitar: on my spare time, :soccer:, 🎮 & I love fixing bugs :smile:
+  
 📫 Connect with me on: 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
