@@ -31,7 +31,9 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 
 📫 You may also reach me on: 
 
-  [![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro) [![Linkedin Badge](https://img.shields.io/badge/-Patrick Cyubahiro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cyubahiro-262188138/) [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/123/ -Patrick Cyubahiro?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
+  [![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
+  
+ 
   
   <br>
 <li>Technical Writing Profile:
