@@ -33,13 +33,6 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
   
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianlusina)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-[<img align="center" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lusinabrian/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-[<img align="center" alt="@Pat_Cyubahiro" src="https://img.shields.io/badge/@Pat_Cyubahiro-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brianlusina)
- 
-  
   <br>
 <li>Technical Writing Profile:
 <ul>
