@@ -37,7 +37,7 @@ Feel free to contact me directly at ampatrickcyubahiro@gmail.com.
   
 [<img align="center" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lusinabrian/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-[<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brianlusina)
+[<img align="center" alt="@Pat_Cyubahiro" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brianlusina)
  
   
   <br>
