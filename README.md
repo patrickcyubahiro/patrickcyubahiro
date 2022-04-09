@@ -36,7 +36,7 @@ Apart from coding, I also write technical articles - you can find my articles on
 Other Places you can find my open source contributions:
 
 - [Gitlab](https://)
-- [Bitbucket](https://
+- [Bitbucket](https://)
   
 Feel free to contact me directly at ampatrickcyubahiro@gmail.com. 
 
