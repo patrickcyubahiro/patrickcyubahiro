@@ -13,7 +13,13 @@ I am skilled in Java, JavaScript, C, C++, PHP, SQL and Web Technologies; I focus
 
 I am inspired by translating ideas into a fragment of reality and have been influenced by the virtue of programming in a big way. I am hard-working, team oriented, and an excellent communicator. I am super passionate about being active in my community and helping others.
 
-<p><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  <strong>Latest Blog Posts</strong></p>
+<!--<p><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  <strong>Latest Blog Posts</strong></p> -->
+  
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my [blog](https://blog.brianlusina.com)
+
+<hr/>
 
 <ul>
 <li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow">My experience throughout the Microsoft ADC Game of Learners Hackathon.</a></li>
