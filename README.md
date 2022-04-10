@@ -15,6 +15,12 @@ I am inspired by translating ideas into a fragment of reality and have been infl
 
 <!--<p><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  <strong>Latest Blog Posts</strong></p> -->
   
+## Projects
+
+ - [REST API](https://github.com/patrickcyubahiro/Simple-API)
+ - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
+ - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
+  
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site]()
