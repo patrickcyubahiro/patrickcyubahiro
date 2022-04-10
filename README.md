@@ -58,7 +58,7 @@ Other Places you can find my open source contributions:
 - [Gitlab](https://)
 - [Bitbucket](https://)
 
-et cetera et cetera:
+## et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps. 
 - 👯  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
@@ -72,7 +72,7 @@ et cetera et cetera:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)-->
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)
 
