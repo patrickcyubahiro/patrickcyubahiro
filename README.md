@@ -60,7 +60,7 @@ Other Places you can find my open source contributions:
 
 ## Et cetera et cetera:
 
-- 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps. 
+- 🔭  Exploring chatbots, automation, websites, systems, APIs, Apps. 
 - 👯  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
 - 💬  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
 - 👀 Pronouns: He/Him.
