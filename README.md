@@ -9,7 +9,6 @@ I focus on building scalable and problem solving platforms which are user friend
 ```javascript
 const Patrick = {
     code: ["Javascript", "Java", "PHP", "C++"],
-    askMeAbout: ["web development", "tech", "chess"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"],
