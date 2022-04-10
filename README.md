@@ -2,7 +2,7 @@
   
 I am a community Builder, software & web developer, UI/UX designer, and technical writer.
 
-I focus on building scalable and problem-solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures">Algorithms and Data Structures.</a>
+I focus on building scalable and problem-solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures" target="_blank">Algorithms and Data Structures.</a>
   
 ```javascript
 const Patrick = {
@@ -28,10 +28,10 @@ const Patrick = {
  - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
  - [REST API](https://github.com/patrickcyubahiro/Simple-API)
 
-<a href="https://github.com/patrickcyubahiro/github-readme-stats">
+<a href="https://github.com/patrickcyubahiro/github-readme-stats" target="_blank">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=jolly&layout=compact" />
 </a>
-<a href="https://github.com/patrickcyubahiro/convoychat">
+<a href="https://github.com/patrickcyubahiro/convoychat" target="_blank">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&langs_count=8&theme=jolly&layout=compact" />
 </a>
   
@@ -42,8 +42,8 @@ Apart from coding, I also write technical articles - you can find my articles on
 Other articles:
 
 <ul>
-<li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow">My experience throughout the Microsoft ADC Game of Learners Hackathon.</a></li>
-<li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow">Introduction to Basic HTML.</a></li>
+<li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow" target="_blank">My experience throughout the Microsoft ADC Game of Learners Hackathon.</a></li>
+<li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow" target="_blank">Introduction to Basic HTML.</a></li>
 </ul>
 
 ## My Github Skyline(s)
@@ -74,8 +74,8 @@ Other Places you can find my open source contributions:
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9446849/patrick-cyubahiro)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"/>](https://stackoverflow.com/users/9446849/patrick-cyubahiro)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pat_Cyubahiro)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>](https://twitter.com/Pat_Cyubahiro)
