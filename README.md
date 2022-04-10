@@ -24,7 +24,7 @@ const Patrick = {
 ``` 
 ## Projects
 
- - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
+ - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App){:target="_blank" rel="noopener"}
  - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
  - [REST API](https://github.com/patrickcyubahiro/Simple-API)
 
