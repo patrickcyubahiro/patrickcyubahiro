@@ -4,7 +4,7 @@
 
 I am a community Builder, software & web developer, UI/UX designer, and technical writer.
 
-I focus on building scalable and problem solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures">Algorithms and Data Structures.</a>
+I focus on building scalable and problem-solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures">Algorithms and Data Structures.</a>
   
 ```javascript
 const Patrick = {
