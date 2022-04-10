@@ -69,6 +69,14 @@ et cetera et cetera:
   
 📫 Reach me on: 
 
-[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
+<!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)-->
+
+### Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-cyubahiro-262188138/)
+
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9446849/patrick-cyubahiro)
+
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pat_Cyubahiro)
