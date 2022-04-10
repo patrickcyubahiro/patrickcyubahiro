@@ -58,7 +58,7 @@ Other Places you can find my open source contributions:
 - [Gitlab](https://)
 - [Bitbucket](https://)
 
-## et cetera et cetera:
+## Et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps. 
 - 👯  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
