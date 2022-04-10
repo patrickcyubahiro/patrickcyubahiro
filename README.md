@@ -11,7 +11,7 @@ I am a community Builder, software & web developer, UI/UX designer, and technica
 
 I am skilled in Java, JavaScript, C, C++, PHP, SQL and Web Technologies; I focus on building scalable and problem solving platforms which are user friendly.
 
-I am currently working on Algorithms and Data Structures
+I am currently working on Algorithms and Data Structures.
   
 <!--<p><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  <strong>Latest Blog Posts</strong></p> -->
   
