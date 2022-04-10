@@ -65,11 +65,10 @@ et cetera et cetera:
 - 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps. 
 - 👯  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
 - 💬  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
-- 📫  Write to: ampatrickcyubahiro@gmail.com.
 - 👀 Pronouns: He/Him.
 - ⚡  Fun fact: ​I​ ​pla​y​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs :smile:
   
-📫 Reach me on: 
+📫 Write to: ampatrickcyubahiro@gmail.com.
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
