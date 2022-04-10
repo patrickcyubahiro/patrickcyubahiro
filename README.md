@@ -19,7 +19,9 @@ const Patrick = {
             PHP: ["Laravel"]
         },
         databases: ["Postgres", "MySql", "sqlite"],
+        UI/UX: ["Figma"]
     },
+    
 };
 ``` 
 ## Projects
