@@ -47,7 +47,7 @@ et cetera et cetera:
 - 👀 Pronouns: He/Him.
 - ⚡  Fun fact: ​I​ ​pla​y​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs :smile:
   
-📫 Connect with me on: 
+📫 Reach me on: 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
