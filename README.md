@@ -1,7 +1,5 @@
 <h1 class="center">Hi 👋, my name is Patrick Cyubahiro</h1>
   
-## About me.
-
 I am a community Builder, software & web developer, UI/UX designer, and technical writer.
 
 I focus on building scalable and problem-solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures">Algorithms and Data Structures.</a>
