@@ -33,6 +33,10 @@ other articles:
 <li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow">Introduction to Basic HTML.</a></li>
 </ul>
 
+[![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Patrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickcyubahiro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
 ## My Github Skyline(s)
 
 [2019](https://skyline.github.com/patrickcyubahiro/2019)
