@@ -7,7 +7,7 @@
   
 ## About me.
 
-I am a community Builder, software & web developer, designer, and technical writer.
+I am a community Builder, software & web developer, UI/UX designer, and technical writer.
 
 I am skilled in Java, JavaScript, C, C++, PHP, SQL and Web Technologies; I focus on building scalable and problem solving platforms which are user friendly.
 
