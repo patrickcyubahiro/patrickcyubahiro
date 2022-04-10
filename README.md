@@ -24,9 +24,9 @@ const Patrick = {
 ``` 
 ## Projects
 
- - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App){:target="_blank" rel="noopener"}
- - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page){:target="_blank" rel="noopener"}
- - [REST API](https://github.com/patrickcyubahiro/Simple-API){:target="_blank" rel="noopener"}
+ - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
+ - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
+ - [REST API](https://github.com/patrickcyubahiro/Simple-API)
 
 <a href="https://github.com/patrickcyubahiro/github-readme-stats" target="_blank" rel="noopener noreferrer">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=jolly&layout=compact" />
