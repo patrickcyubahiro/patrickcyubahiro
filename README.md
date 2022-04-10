@@ -17,9 +17,10 @@ I am inspired by translating ideas into a fragment of reality and have been infl
   
 ## Projects
 
- - [REST API](https://github.com/patrickcyubahiro/Simple-API)
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
  - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
+ - [REST API](https://github.com/patrickcyubahiro/Simple-API)
+
   
 ## &#x270d; Blog & Writing
 
