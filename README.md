@@ -78,7 +78,7 @@ Other Places you can find my open source contributions:
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank" rel="noopener noreferrer"/>](https://stackoverflow.com/users/9446849/patrick-cyubahiro)
 
-<p><a href="https://github.com/patrickcyubahiro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/patrickcyubahiro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 [<img align="left" alt="twitter" src="https://img.shields.io/freecodecamp/points/patrickcyubahiro?logo=freeCodeCamp" target="_blank" rel="noopener noreferrer"/>](https://twitter.com/Pat_Cyubahiro)
 
