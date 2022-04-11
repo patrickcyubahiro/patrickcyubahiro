@@ -10,8 +10,8 @@ const Patrick = {
     UI/UX: ["Figma"]
     technologies: {
         frontEnd: {
-            css: ["bootstrap"],
-            js: ["react"]
+            css: ["Bootstrap"],
+            js: ["React"]
         },
         backEnd: {
             PHP: ["Laravel"],
