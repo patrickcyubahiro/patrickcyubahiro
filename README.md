@@ -15,9 +15,9 @@ const Patrick = {
         },
         backEnd: {
             PHP: ["Laravel"],
-            js: ["node"]
+            js: ["Node.js"]
         },
-        databases: ["Postgres", "MySql", "sqlite"],        
+        databases: ["MySql", "SQLite", "PostgreSQL"],        
     },
     
 };
