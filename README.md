@@ -6,7 +6,7 @@ I focus on building scalable and problem-solving platforms which are user-friend
   
 ```javascript
 const Patrick = {
-    code: ["Javascript", "Java", "PHP", "C++"],
+    code: ["JavaScript", "Java", "PHP", "C++"],
     UI/UX: ["Figma"]
     technologies: {
         frontEnd: {
