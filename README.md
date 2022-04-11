@@ -81,6 +81,6 @@ Other Places you can find my open source contributions:
 
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" rel="noopener noreferrer"/>](https://github.com/patrickcyubahiro)
 
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" rel="noopener noreferrer"/>](https://github.com/patrickcyubahiro)
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" rel="noopener noreferrer"/>](https://codepen.io/patrickcyubahiro)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer"/>](https://twitter.com/Pat_Cyubahiro)
