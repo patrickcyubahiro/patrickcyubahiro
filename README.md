@@ -67,7 +67,7 @@ Other Places you can find my open source contributions:
 - 🥅 One of my 2022 goals: to contribute more to Open Source projects.
 - ⚡  Fun fact: ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs :smile:
   
-📫 Write to: ampatrickcyubahiro@gmail.com.
+📫 Write to: ampatrickcyubahiro@gmail.com
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
