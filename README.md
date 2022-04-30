@@ -1,4 +1,4 @@
-<h1 class="center">Hello 👋, my name is Patrick Cyubahiro</h1> 🦁
+<h1 class="center">Hello 👋, my name is Patrick Cyubahiro 🦁</h1>
   
 I am a Community Builder, Software & Web Developer, UI/UX Designer, and Technical writer.
 
