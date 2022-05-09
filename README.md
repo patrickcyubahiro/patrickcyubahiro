@@ -27,6 +27,7 @@ const Patrick = {
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
  - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
  - [REST API](https://github.com/patrickcyubahiro/Simple-API)
+ - [Office of Faculty Affairs](https://patrickcyubahiro.github.io/Office-of-Faculty-Affairs/)
 
 <a href="https://github.com/patrickcyubahiro/github-readme-stats" target="_blank" rel="noopener noreferrer">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=jolly&layout=compact" />
