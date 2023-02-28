@@ -44,7 +44,6 @@ Other articles:
 
 <ul>
 <li><a href="https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/" rel="nofollow" target="_blank" rel="noopener noreferrer">Object-Oriented Programming in Java – A Beginner's Guide</a></li>
-<li><a href="https://www.linkedin.com/pulse/my-experience-throughout-microsoft-adc-game-learners-cyubahiro/" rel="nofollow" target="_blank" rel="noopener noreferrer">My experience throughout the Microsoft ADC Game of Learners Hackathon</a></li>
 <li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow" target="_blank" rel="noopener noreferrer">Introduction to Basic HTML</a></li>
 </ul>
 
