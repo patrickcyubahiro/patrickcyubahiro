@@ -69,7 +69,7 @@ Other articles:
 - 🤙🏼  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
 - 👨🏽‍✈️ Pronouns: He/Him.
 - 🎯 One of my 2023 goals: to contribute more to Open Source projects.
-- ⚡  Fun fact: ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs -:)
+- ⚡  ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & fixing bugs 👨🏽‍💻 -:)
   
 📫 Write to: ampatrickcyubahiro[at]gmail.com
 
