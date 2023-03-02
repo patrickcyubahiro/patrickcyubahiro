@@ -70,7 +70,7 @@ Other articles:
 - 👨🏽‍✈️ Pronouns: He/Him.
 - 🎯 One of my 2023 goals: to contribute more to Open Source projects.
 - ⚡  ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & fixing bugs 👨🏽‍💻 -:)
-- 👉 Fun fact: I can speak 6 languages.
+- 👉 Fun fact: I can communicate in 6 languages.
   
 📫 Write to: ampatrickcyubahiro[at]gmail.com
 
