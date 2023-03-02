@@ -56,19 +56,19 @@ Other articles:
 [2021](https://skyline.github.com/patrickcyubahiro/2021)
 [2022](https://skyline.github.com/patrickcyubahiro/2022)
   
-Other Places you can find my open source contributions:
+<!--Other Places you can find my open source contributions:
 
 - [Gitlab](https://)
-- [Bitbucket](https://)
+- [Bitbucket](https://)-->
 
 ## Et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, APIs, Apps. 
-- 👯  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
-- 💬  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
-- 👀 Pronouns: He/Him.
-- 🥅 One of my 2022 goals: to contribute more to Open Source projects.
-- ⚡  Fun fact: ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs :smile:
+- 👷🏽‍♂️  Looking to collaborate on interesting projects that push the limits and any other that sounds cool.
+- 🤙🏼  Ask me about Full-stack Web and software Development, Technical Writing, Javascript, PHP, C++ and tech related ideas.
+- 👨🏽‍✈️ Pronouns: He/Him.
+- 🎯 One of my 2023 goals: to contribute more to Open Source projects.
+- ⚡  Fun fact: ​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & I love fixing bugs -:)
   
 📫 Write to: ampatrickcyubahiro[at]gmail.com
 
