@@ -3,6 +3,8 @@
 Community Builder, Software & Web Developer, UI/UX Designer, and Technical writer.
 
 I focus on building scalable and problem-solving platforms which are user-friendly, and I am currently working on <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures" target="_blank" rel="noopener noreferrer">Algorithms and Data Structures.</a>
+
+In my spare time, I enjoy playing with some C++ lines of code, my very first programming language.
   
 ```javascript
 const Patrick = {
