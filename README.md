@@ -44,7 +44,7 @@ Other articles:
 
 <ul>
 <li><a href="https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/" rel="nofollow" target="_blank" rel="noopener noreferrer">Object-Oriented Programming in Java – A Beginner's Guide</a></li>
-<li><a href="https://patrickcyubahiro.hashnode.dev/introduction-to-basic-html-ckia315za01cwits1dtogcby5" rel="nofollow" target="_blank" rel="noopener noreferrer">Introduction to Basic HTML</a></li>
+<li><a href="https://www.freecodecamp.org/news/html-for-beginners/" rel="nofollow" target="_blank" rel="noopener noreferrer">HTML for Beginners – How to Get Started with Web Development Basics</a></li>
 </ul>
 
 ## My Github Skyline(s)
