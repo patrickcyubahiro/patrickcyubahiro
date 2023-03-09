@@ -8,21 +8,21 @@ Each day, I enjoy playing with some <a href="https://github.com/patrickcyubahiro
 
 ```javascript
 const Patrick = {
-    code: ["JavaScript", "Java", "PHP", "C++"],
+    code: ["JavaScript", "Java", "PHP", "C++"]
     UI/UX: ["Figma"]
     technologies: {
         frontEnd: {
-            css: ["Bootstrap"],
+            css: ["Bootstrap"]
             js: ["React"]
-        },
+        }
         backEnd: {
-            PHP: ["Laravel"],
+            PHP: ["Laravel"]
             js: ["Node.js"]
-        },
-        databases: ["MySql", "SQLite", "PostgreSQL"],        
-    },
+        }
+        databases: ["MySql", "SQLite", "PostgreSQL"]        
+    }
     
-};
+}
 ``` 
 ## Projects
 
