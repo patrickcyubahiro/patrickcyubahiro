@@ -42,7 +42,7 @@ const Patrick = {
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site](https://www.freecodecamp.org/news/author/patrick-cyubahiro/)
 
-Other articles:
+Best articles:
 
 <ul>
 <li><a href="https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/" rel="nofollow" target="_blank" rel="noopener noreferrer">Object-Oriented Programming in Java – A Beginner's Guide</a></li>
