@@ -16,9 +16,9 @@ int main()
 {
   string languages[7] = {"C++", "C", "Java", "JavaScript", "PHP", "HTML", "SQL"};
   
-  for (int i = 0; i < 7; i++) 
+  for (int Patrick = 0; Patrick < 7; Patrick++) 
   {
-    cout << languages[i] << "\n";
+    cout << languages[Patrick] << "\n";
   }
   return 0;
 }
