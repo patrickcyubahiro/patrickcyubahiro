@@ -68,7 +68,7 @@ Best articles:
 - 🤙🏼Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
 - 👨🏽‍✈️Pronouns: He/Him.
 - 🎯Two of my goals for 2023 include contributing more to open-source projects and sharing my knowledge with other enthusiasts.
-- ⚡​I​ enjoy ​pla​ying​ :guitar: on my spare time, :soccer:, :basketball:, 🎮 & fixing bugs 👨🏽‍💻 -:)
+- ⚡I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
 - 👉Fun fact: I can communicate in 6 languages.
   
 📫 Write to: ampatrickcyubahiro[at]gmail[dot]com
