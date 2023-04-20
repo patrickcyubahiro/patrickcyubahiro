@@ -63,9 +63,9 @@ Best articles:
 
 ## Et cetera et cetera:
 
-- 🔭 Exploring chatbots, automation, websites, systems, APIs, and Apps. 
-- 👷 🏽‍♂️Looking to collaborate on interesting boundary-pushing projects and any other projects that sound cool.
-- 🤙 🏼Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
+- 🔭  Exploring chatbots, automation, websites, systems, APIs, and Apps. 
+- 👷🏽‍♂️  Looking to collaborate on interesting boundary-pushing projects and any other projects that sound cool.
+-   🤙🏼Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
 - 👨 Pronouns: He/Him.
 - 🎯 Two of my goals for 2023 include contributing more to open-source projects and sharing my knowledge with other enthusiasts.
 - ⚡ I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
