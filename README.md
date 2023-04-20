@@ -4,7 +4,7 @@ A creative Software and Web Developer, UI/UX Designer, and Technical writer, wit
 
 On a daily basis, I enjoy writing and typing <a href="https://github.com/patrickcyubahiro/C-plus-plus" target="_blank" rel="noopener noreferrer"> C++ </a> (my very first programming language) and <a href="https://github.com/patrickcyubahiro/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript </a> lines of code and sharing my thoughts on how to solve programming-related challenges on <a href="https://stackoverflow.com/users/9446849/patrick-cyubahiro" target="_blank" rel="noopener noreferrer"> StackOverflow. </a> 
 
-For now, I prefer to let my LinkedIn, GitHub, and StackOverflow profiles showcase the value I can bring, my past experiences, and my passion projects. If, after having reviewed my profiles, you would like me to add value to your company or your project(s), just let me know: ampatrickcyubahiro[at]gmail[dot]com
+For now, I prefer to let my LinkedIn, GitHub, and StackOverflow profiles showcase the value I can bring, my past experiences, and my passion projects. If, after having reviewed my profiles, you would like me to add value to your company or your project(s), just let me know: 📬 ampatrickcyubahiro[at]gmail[dot]com
 
 ```c++
 #include <iostream>
