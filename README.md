@@ -1,10 +1,10 @@
 <h1 class="center">What's up? I'm Patrick Cyubahiro 🦁</h1>
   
-Community Builder, Software & Web Developer, UI/UX Designer, and Technical writer.
+A creative Software and Web Developer, UI/UX Designer, and Technical writer, with a focus on building scalable, problem-solving platforms that are user-friendly, as well as on constantly improving my problem-solving skills by solving <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures" target="_blank" rel="noopener noreferrer">Algorithms and Data Structures</a> challenges.
 
-I focus on building scalable and problem-solving platforms which are user-friendly, and I am constantly improving my problem-solving skills by solving <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures" target="_blank" rel="noopener noreferrer">Algorithms and Data Structures</a> challenges.
+On a daily basis, I enjoy writing and typing <a href="https://github.com/patrickcyubahiro/C-plus-plus" target="_blank" rel="noopener noreferrer"> C++ </a> (my very first programming language) and <a href="https://github.com/patrickcyubahiro/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript </a> lines of code and sharing my thoughts on how to solve programming-related challenges on <a href="https://stackoverflow.com/users/9446849/patrick-cyubahiro" target="_blank" rel="noopener noreferrer"> StackOverflow. </a> 
 
-On a daily basis, I enjoy writing and typing some <a href="https://github.com/patrickcyubahiro/C-plus-plus" target="_blank" rel="noopener noreferrer"> C++ </a> (my very first programming language) and <a href="https://github.com/patrickcyubahiro/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript </a> lines of code and sharing my thoughts on how to solve some of the programming related challenges on <a href="https://stackoverflow.com/users/9446849/patrick-cyubahiro" target="_blank" rel="noopener noreferrer"> StackOverflow. </a> 
+For now, I prefer to let my LinkedIn, GitHub, and StackOverflow profiles showcase the value I can bring, my past experiences, and my passion projects.If, after having reviewed my profiles, you would like me to add value to your company or your project(s), just let me know: ampatrickcyubahiro[at]gmail[dot]com
 
 ```c++
 #include <iostream>
@@ -76,8 +76,6 @@ Best articles:
 - 🤌🏽   I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
 
 - 👉  Fun fact: I can communicate in 6 languages.
-  
-📫 Would you want me to add value to your company or your project(s)? Just let me know: ampatrickcyubahiro[at]gmail[dot]com
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
