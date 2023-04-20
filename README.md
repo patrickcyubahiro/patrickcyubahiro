@@ -64,14 +64,14 @@ Best articles:
 ## Et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, APIs, and Apps. 
-- 👷🏽‍♂️  Looking to collaborate on interesting boundary-pushing projects and any other projects that sound cool.
--   🤙🏼Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
-- 👨 Pronouns: He/Him.
-- 🎯 Two of my goals for 2023 include contributing more to open-source projects and sharing my knowledge with other enthusiasts.
-- ⚡ I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
-- 👉 Fun fact: I can communicate in 6 languages.
+- 👨🏽‍💻  Looking to collaborate on interesting boundary-pushing projects and any other projects that sound cool.
+- 🤙🏼  Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
+- 🦁  Pronouns: He/Him.
+- 🎯  Two of my goals for 2023 include contributing more to open-source projects and sharing my knowledge with other enthusiasts.
+- 🤌🏽   I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
+- 👉  Fun fact: I can communicate in 6 languages.
   
-📫 Write to: ampatrickcyubahiro[at]gmail[dot]com
+📫 Would you want me to add value to your company or your project(s)? Just let me know: ampatrickcyubahiro[at]gmail[dot]com
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
