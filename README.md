@@ -32,12 +32,13 @@ int main()
 ```
 <a href="https://github.com/patrickcyubahiro/github-readme-stats" target="_blank" rel="noopener noreferrer">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=jolly&layout=compact" />
-</a>
+</a> 
+``` 
 <a href="https://github.com/patrickcyubahiro/convoychat" target="_blank" rel="noopener noreferrer">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&langs_count=8&theme=jolly&layout=compact" />
 </a> 
 }
-``` 
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site](https://www.freecodecamp.org/news/author/patrick-cyubahiro/)
