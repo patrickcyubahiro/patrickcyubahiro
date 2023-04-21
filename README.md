@@ -51,8 +51,8 @@ int main()
 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Patrick's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/patrickcyubahiro/github-readme-stats#gh-dark-mode-only)
+[![Patrick's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/patrickcyubahiro/github-readme-stats#gh-light-mode-only)
 
 
 
