@@ -38,7 +38,7 @@ int main()
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&langs_count=8&theme=jolly&layout=compact" />
 </a> 
 
-
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickcyubahiro)](https://github.com/patrickcyubahiro/github-readme-stats)
 
 
 
