@@ -38,8 +38,8 @@ int main()
 </a> 
 
 
-```[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&layout=compact)](https://github.com/patrickcyubahiro/github-readme-stats)
-```
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&layout=compact)](https://github.com/patrickcyubahiro/github-readme-stats)-->
+
 
 
 
