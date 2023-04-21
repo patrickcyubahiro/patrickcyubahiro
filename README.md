@@ -44,6 +44,26 @@ int main()
 
 
 
+<div align="center" dir="auto"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height="200" src="https://camo.githubusercontent.com/3e266295cc265658e7d4a5a12c935154e868b1d06bbfa8298eb6649542b44618/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7269636b73746161266c61796f75743d636f6d70616374266c616e67735f636f756e743d313026686964655f626f726465723d7472756526726f6c653d6f776e65722c636f6c6c61626f7261746f72267468656d653d64656661756c742367682d6c696768742d6d6f64652d6f6e6c79" alt="Rick Staa's Language stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;role=owner,collaborator&amp;theme=default#gh-light-mode-only" style="max-width: 100%;">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height="200" src="https://camo.githubusercontent.com/cd351f494fe4bb9f5e192bcb7d6fda3de666c549f5e005971083782ab5ffe21f/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d7269636b737461612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323826686964655f626f726465723d7472756526636172645f77696474683d33343726696e636c7564655f616c6c5f636f6d6d6974733d7472756526726f6c653d6f776e65722c636f6c6c61626f7261746f72266578636c7564655f7265706f3d6769746875622d726561646d652d7374617473267468656d653d64656661756c7426686964655f72616e6b3d747275652367682d6c696768742d6d6f64652d6f6e6c79" alt="Rick Staa's Github stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&amp;show_icons=true&amp;count_private=true&amp;line_height=28&amp;hide_border=true&amp;card_width=347&amp;include_all_commits=true&amp;role=owner,collaborator&amp;exclude_repo=github-readme-stats&amp;theme=default&amp;hide_rank=true#gh-light-mode-only" style="max-width: 100%;">
+</a>
+</div>
+
+<div align="center" dir="auto"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height="200" src="https://camo.githubusercontent.com/b27a057d1c9bc8c89dfa0f754b9bb6e266f04a62cf48a5aae0c4f0be26243df8/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7269636b73746161266c61796f75743d636f6d70616374266c616e67735f636f756e743d313026686964655f626f726465723d7472756526726f6c653d6f776e65722c636f6c6c61626f7261746f72267468656d653d6461726b2662675f636f6c6f723d3030303030302367682d6461726b2d6d6f64652d6f6e6c79" alt="Rick Staa's Language stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;role=owner,collaborator&amp;theme=dark&amp;bg_color=000000#gh-dark-mode-only" style="max-width: 100%;">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height="200" src="https://camo.githubusercontent.com/9b60ecaed9a35152ffba5b8519cce94bb90c99fab9fa7132d71fd2e5c3a82f67/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d7269636b737461612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323826686964655f626f726465723d7472756526636172645f77696474683d33343726696e636c7564655f616c6c5f636f6d6d6974733d7472756526726f6c653d6f776e65722c636f6c6c61626f7261746f72266578636c7564655f7265706f3d6769746875622d726561646d652d7374617473267468656d653d6461726b2662675f636f6c6f723d30303030303026686964655f72616e6b3d747275652367682d6461726b2d6d6f64652d6f6e6c79" alt="Rick Staa's Github stats" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&amp;show_icons=true&amp;count_private=true&amp;line_height=28&amp;hide_border=true&amp;card_width=347&amp;include_all_commits=true&amp;role=owner,collaborator&amp;exclude_repo=github-readme-stats&amp;theme=dark&amp;bg_color=000000&amp;hide_rank=true#gh-dark-mode-only" style="max-width: 100%;">
+</a>
+</div>
+<br>
+
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site](https://www.freecodecamp.org/news/author/patrick-cyubahiro/)
