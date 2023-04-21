@@ -56,20 +56,17 @@ int main()
 
 
 
-<a href="https://github.com/patrickcyubahiro/convoychat" target="_blank" rel="noopener noreferrer">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&langs_count=8&theme=jolly&layout=compact" />
-</a> 
-
-
-
-
-
-
 
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
+<a href="https://github.com/patrickcyubahiro/convoychat" target="_blank" rel="noopener noreferrer">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&langs_count=8&theme=jolly&layout=compact" />
+</a> 
 
 
 
