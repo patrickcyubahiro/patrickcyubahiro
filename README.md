@@ -61,10 +61,10 @@ Best articles:
 ## My Github Skyline(s)
 
 [2019](https://skyline.github.com/patrickcyubahiro/2019)
-[2020](https://skyline.github.com/patrickcyubahiro/2020)
-[2021](https://skyline.github.com/patrickcyubahiro/2021)
-[2022](https://skyline.github.com/patrickcyubahiro/2022)
-[2023](https://skyline.github.com/patrickcyubahiro/2023)
+| [2020](https://skyline.github.com/patrickcyubahiro/2020)
+| [2021](https://skyline.github.com/patrickcyubahiro/2021)
+| [2022](https://skyline.github.com/patrickcyubahiro/2022)
+| [2023](https://skyline.github.com/patrickcyubahiro/2023)
   
 <!--Other Places you can find my open source contributions:
 
