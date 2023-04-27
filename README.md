@@ -1,4 +1,4 @@
-<h1 align ="center">What's up? I'm Patrick Cyubahiro 🦁</h1>
+<h1 align ="left">What's up? I'm Patrick Cyubahiro 🦁</h1>
 
 <br>
   
