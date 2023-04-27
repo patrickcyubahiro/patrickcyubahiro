@@ -1,4 +1,4 @@
-<h1 class="center">What's up? I'm Patrick Cyubahiro 🦁</h1>
+<h1 align ="center">What's up? I'm Patrick Cyubahiro 🦁</h1>
   
 A creative Software and Web Developer, UI/UX Designer, and Technical writer, with a focus on building scalable and problem-solving platforms that are user-friendly, as well as on constantly sharpening my problem-solving skills by solving <a href="https://github.com/patrickcyubahiro/Javascript-Algorithms-And-Data-Structures" target="_blank" rel="noopener noreferrer">Algorithms and Data Structures</a> challenges.
 
