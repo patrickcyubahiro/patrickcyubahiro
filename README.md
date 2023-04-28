@@ -32,7 +32,7 @@ int main()
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
  - [A Tribute Page](https://github.com/patrickcyubahiro/A-Tribute-Page)
  - [REST API](https://github.com/patrickcyubahiro/Simple-API)
- - [Personal portfolio website](https://patrickcyubahiro.github.io/portfolio/)
+ - [Personal Portfolio Website](https://patrickcyubahiro.github.io/portfolio/)
 
 ## GitHub stats
 
