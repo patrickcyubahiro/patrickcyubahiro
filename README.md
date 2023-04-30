@@ -58,7 +58,7 @@ Best articles:
   <li>(I have plenty in store. Many more will be added very soon.)</li>
 </ul>
 
-## My Github Skyline(s)
+## My Github Skylines
 
 [2019](https://skyline.github.com/patrickcyubahiro/2019)
 | [2020](https://skyline.github.com/patrickcyubahiro/2020)
