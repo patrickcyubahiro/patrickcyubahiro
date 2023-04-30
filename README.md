@@ -29,7 +29,7 @@ int main()
 ``` 
 ## Projects
 
- - [Personal Portfolio Website (currently under development)](https://patrickcyubahiro.github.io/portfolio/)
+ - [Personal Portfolio Website](https://patrickcyubahiro.github.io/portfolio/) (currently under development)
  - [A Simple Web Page](https://codepen.io/patrickcyubahiro/full/vYBZBdJ)
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
 
