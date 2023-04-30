@@ -29,8 +29,8 @@ int main()
 ``` 
 ## Projects
 
+ - [Personal Portfolio Website (currently under development)](https://patrickcyubahiro.github.io/portfolio/)
  - [A Simple Web Page](https://codepen.io/patrickcyubahiro/full/vYBZBdJ)
- - [Personal Portfolio Website](https://patrickcyubahiro.github.io/portfolio/)
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
 
 ## GitHub stats
