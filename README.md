@@ -32,6 +32,7 @@ int main()
  - [Personal Portfolio Website](https://patrickcyubahiro.github.io/portfolio/) (currently under development)
  - [A Simple Web Page](https://codepen.io/patrickcyubahiro/full/vYBZBdJ)
  - [My First Android App](https://github.com/patrickcyubahiro/My-First-Android-App)
+ - (I have plenty in store. Many more will be added very soon.)
 
 ## GitHub stats
 
@@ -54,6 +55,7 @@ Best articles:
 <ul>
 <li><a href="https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/" rel="nofollow" target="_blank" rel="noopener noreferrer">Object-Oriented Programming in Java – A Beginner's Guide</a></li>
 <li><a href="https://www.freecodecamp.org/news/html-for-beginners/" rel="nofollow" target="_blank" rel="noopener noreferrer">HTML for Beginners – How to Get Started with Web Development Basics</a></li>
+  <li>(I have plenty in store. Many more will be added very soon.)</li>
 </ul>
 
 ## My Github Skyline(s)
