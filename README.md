@@ -83,7 +83,7 @@ Best articles:
 
 - 🎯  Two of my goals for 2023 include contributing more to open-source projects and sharing my knowledge with other enthusiasts.
 
-- 🤌🏽   I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and intellectually challenging games.
+- 🤌🏽   I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and other intellectually challenging games.
 
 - 👉  Fun fact: I can communicate in 6 languages.
 
