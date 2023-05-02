@@ -46,6 +46,22 @@ int main()
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&layout=compact)](https://github.com/patrickcyubahiro/github-readme-stats)-->
 
+
+<table>
+  <tbody><tr>
+<td>
+       <a href="https://github.com/patrickcyubahiro"><img alt="Patrick's Github Stats" src="https://camo.githubusercontent.com/b3400e14d492e68c27265fa94e3c35e7900bf109949bb0f47122f27f46d721da/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6761747769726976616c2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d316432613361" data-canonical-src="https://github-readme-stats.vercel.app/api?username=patrickcyubahiro&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1d2a3a" style="max-width: 100%;"></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/patrickcyubahiro"><img src="https://camo.githubusercontent.com/2c9269d8ff0410bdef21c2b654c1c0c30b5a682413582c4b3e138a4f9515bbae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6761747769726976616c267374726f6b653d666666666666266261636b67726f756e643d3164326133612672696e673d35424344454326666972653d354243444543266375727253747265616b4e756d3d666666666666266375727253747265616b4c6162656c3d35424344454326736964654e756d733d66666666666626736964654c6162656c733d6666666666662664617465733d66666666666626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=patrickcyubahiro&amp;stroke=ffffff&amp;background=1d2a3a&amp;ring=5BCDEC&amp;fire=5BCDEC&amp;currStreakNum=ffffff&amp;currStreakLabel=5BCDEC&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" style="max-width: 100%;"></a>
+    </td>
+    <td>
+      <a href="https://github.com/patrickcyubahiro"><img alt="Patrick's Top Languages" src="https://camo.githubusercontent.com/6624fb68990ca378661b80ea40fc08bbe9a0f550eb470e30d24cea44fac7513e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761747769726976616c266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d316432613361" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcyubahiro&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1d2a3a" style="max-width: 100%;"></a>
+    </td>
+  </tr><tr>
+</tr></tbody></table>
+
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site](https://www.freecodecamp.org/news/author/patrick-cyubahiro/)
