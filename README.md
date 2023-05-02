@@ -62,7 +62,7 @@ int main()
 </tr></tbody></table> -->
 
 
-## &#x270d; Blog & Writing
+✍🏽 ## Blog & Writing
 
 Apart from coding, I also write technical articles - you can find my articles on [freeCodeCamp publication site](https://www.freecodecamp.org/news/author/patrick-cyubahiro/)
 
