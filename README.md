@@ -23,6 +23,8 @@ int main()
   for (int Patrick = 0; Patrick < 7; Patrick++) 
   {
     cout << languages[Patrick] << "\n";
+    
+    cout << "I am constantly sharpening my problem-solving skills by solving Algorithms and Data Structures challenges." <<endl;
   }
   return 0;
 }
