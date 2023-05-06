@@ -95,7 +95,7 @@ Apart from coding, I also write technical articles - you can find my articles on
 
 - 👨🏽‍💻  Looking to collaborate on interesting boundary-pushing projects and any other projects that sound cool.
 
-- 🤙🏼  Ask me about Software and Web development, Technical writing, Javascript, PHP, C++, and Technology related ideas.
+- 🤙🏼  Ask me about software and web development, technical writing, JavaScript, PHP, C++, and technology related ideas.
 
 - 🦁  Pronouns: He/Him.
 
