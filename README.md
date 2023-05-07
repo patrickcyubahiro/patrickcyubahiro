@@ -25,6 +25,8 @@ int main()
     cout << languages[Patrick] << "\n";
     
     cout << "I am constantly sharpening my problem-solving skills by solving Algorithms and Data Structures challenges." <<endl;
+    
+    cout << "Check out some of my amazing passion projects below." <<endl;
   }
   return 0;
 }
