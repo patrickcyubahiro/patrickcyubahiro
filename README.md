@@ -105,7 +105,7 @@ Apart from coding, I also write technical articles - you can find my articles on
 
 - 🤌🏽   I enjoy strumming my fingers on a :guitar: in my spare time, playing :soccer:, :basketball:, 🎮, and other intellectually challenging games.
 
-- 👉  Fun fact: I can communicate in 6 languages.
+- 👉  Fun fact: I can communicate in 6 languages!
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@Pat_Cyubahiro-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Pat_Cyubahiro)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/patrickcyubahiro)
